@@ -1,4 +1,4 @@
-# tracker2
+# Bazaar Tracker VueJS Application
 
 ## Build Setup
 
